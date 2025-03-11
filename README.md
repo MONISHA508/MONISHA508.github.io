@@ -1,4 +1,4 @@
-##HTML, CSS, and Javascript for Web Developers Course<br/>
+# HTML, CSS, and Javascript for Web Developers Course<br/>
 In this course, I learn the basic tools that every web page coder needs to know. I start from the ground up by learning how to implement modern web pages with HTML and CSS.
 And then advance to learning how to code our pages such that its components rearrange and resize themselves automatically based on the size of the user’s screen.
 I'm able to code up a web page that will be just as useful on a mobile phone as on a desktop computer.
